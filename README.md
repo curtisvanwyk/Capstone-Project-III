@@ -1,6 +1,6 @@
-# Capstone-Project-II
+# Capstone-Project-III
 The following project provides an analysis for the importation of various fuels into South Africa for 2010 to 2011.
-The data being analysed has been imported from the fuel.csv[Dataset used in analysis](fuelimports.csv/CONTRIBUTING.md) 
+The data being analysed has been imported from the fuel.csv [Dataset used in analysis](fuelimports.csv/CONTRIBUTING.md) 
 dataset which provided data regarding where the fuel is imported from, the tariffs associated with the fuel, where 
 the fuel is imported to, the statistical unit used to measure the fuel (which can be used to determine fuel type), 
 detailed descriptions of the fuel, how the fuel has been transported to its destination and the customs value of the fuel.
